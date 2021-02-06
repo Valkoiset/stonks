@@ -7,7 +7,7 @@ pip install virtualenv
 virtualenv path/your env
 
 # activate your virtual environment
-source yourenv/bin/activate
+source binance_env/bin/activate
 
 # deactivate your virtual environment
 deactivate
